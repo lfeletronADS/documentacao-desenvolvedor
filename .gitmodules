@@ -1,0 +1,3 @@
+[submodule "projeto-racker"]
+	path = projeto-racker
+	url = https://github.com/lfeletronADS/projeto-racker.git
