@@ -1,3 +1,6 @@
 [submodule "projeto-racker"]
 	path = projeto-racker
 	url = https://github.com/lfeletronADS/projeto-racker.git
+[submodule "documentacao_servidores_data-center"]
+	path = documentacao_servidores_data-center
+	url = ./documentacao_servidores_data-center
